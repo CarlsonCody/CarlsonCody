@@ -21,7 +21,6 @@ Hello! I'm Cody Carlson, a recent Computer Science graduate with a minor in Cybe
 
 - **Python**: Intermediate
 - **Java**: Intermediate
-- ****: Intermediate
 - **JavaScript**: Proficient
 
 ### Technologies & Tools
