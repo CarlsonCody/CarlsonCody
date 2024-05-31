@@ -13,7 +13,6 @@ Hello! I'm Cody Carlson, a recent Computer Science graduate with a minor in Cybe
 
 - **Software Development**: Building robust and scalable applications.
 - **Cybersecurity**: Ensuring the integrity, confidentiality, and availability (I.E the CIA) of data.
-- **AI and Machine Learning**: Exploring the potentials of intelligent systems.
 
 ## Skills
 
