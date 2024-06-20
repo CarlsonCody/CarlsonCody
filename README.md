@@ -31,7 +31,7 @@ Hello! I'm Cody Carlson, a recent Computer Science graduate with a minor in Cybe
 
 ### Certifications
 
-- **Currently in the process of a Google Data Analytics Certificate**
+- **Google Data Analytics Certificate**
 
 ## Projects
 
